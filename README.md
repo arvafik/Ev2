@@ -1,6 +1,6 @@
 # Evaluación de la unidad 2
 Jessica Janet Grajeda Castellanos 17100229
-# Aplicación android usando kotlin
+# Aplicación para android usando Kotlin
 Esta app muestra algunas razas de perro asi como un formulario sobre cual es la raza de caninos favorita del usuario
 
 ## Esta aplicación cumple con los siguientes requisitos:
