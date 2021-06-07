@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Animalpedia</string>
+    <string name="alumna">Alumna</string>
+    <string name="ver_perros">Ver razas de perros</string>
+    <string name="title_activity_formulario">Formulario</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="ver_formulario">¿Cuál es tu perro favorito?</string>
+    <string name="regresar">Regresar</string>
+    <string name="gracias">¡Gracias por tu participación!</string>
+    <string name="pregunta">¿Cuál es tu raza de perro favorita?</string>
+    <string name="pitbull">Pitbull</string>
+    <string name="german_sheperd">German Sheperd</string>
+    <string name="golden_retriever">Golden Retriever</string>
+    <string name="chihuahua">Chihuahua</string>
+    <string name="que_tanto_te_gustan_los_perros">¿Que tanto te gustan los perros?</string>
+</resources>
